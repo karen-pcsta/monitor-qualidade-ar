@@ -1,0 +1,16 @@
+medida,sensor_atuador,tempo_resposta_s
+1,DHT22 -> ThingSpeak,0.54
+2,DHT22 -> ThingSpeak,0.44
+3,DHT22 -> ThingSpeak,0.34
+4,DHT22 -> ThingSpeak,0.22
+media,DHT22 -> ThingSpeak,0.39
+1,MQ-135 -> ThingSpeak,0.13
+2,MQ-135 -> ThingSpeak,1.02
+3,MQ-135 -> ThingSpeak,0.90
+4,MQ-135 -> ThingSpeak,0.80
+media,MQ-135 -> ThingSpeak,0.71
+1,LEDs (expiracao sobre o DHT22),5.58
+2,LEDs (expiracao sobre o DHT22),5.91
+3,LEDs (expiracao sobre o DHT22),3.96
+4,LEDs (expiracao sobre o DHT22),3.61
+media,LEDs (expiracao sobre o DHT22),4.77

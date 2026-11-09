@@ -1,0 +1,21 @@
+Log do Monitor Serial (Arduino IDE, 115200 baud, com marcacao de horario do computador)
+Data: 08/11/2026 - horario local de Sao Paulo (UTC-3)
+Somente as linhas de publicacao MQTT; cada uma corresponde a uma entrada de dados/feeds_thingspeak.csv
+
+20:44:47.458 -> Publicado: field1=26.6&field2=49.9&field3=44
+20:45:08.559 -> Publicado: field1=26.6&field2=49.8&field3=45
+20:45:29.659 -> Publicado: field1=26.6&field2=49.5&field3=45
+20:45:50.778 -> Publicado: field1=26.6&field2=50.0&field3=44
+20:46:11.868 -> Publicado: field1=26.7&field2=49.7&field3=43
+20:46:32.981 -> Publicado: field1=26.7&field2=49.0&field3=44
+20:46:54.105 -> Publicado: field1=26.7&field2=49.4&field3=44
+20:47:15.198 -> Publicado: field1=26.7&field2=49.3&field3=44
+20:47:36.271 -> Publicado: field1=26.7&field2=49.5&field3=41
+20:47:57.387 -> Publicado: field1=26.7&field2=48.7&field3=44
+20:48:18.503 -> Publicado: field1=26.8&field2=49.3&field3=44
+20:48:39.590 -> Publicado: field1=26.7&field2=49.6&field3=44
+20:49:00.691 -> Publicado: field1=26.8&field2=48.6&field3=44
+20:49:21.810 -> Publicado: field1=26.8&field2=48.4&field3=44
+20:49:42.921 -> Publicado: field1=26.8&field2=48.5&field3=44
+20:50:04.003 -> Publicado: field1=26.8&field2=48.7&field3=44
+20:50:25.121 -> Publicado: field1=26.8&field2=48.7&field3=43
